@@ -1,9 +1,11 @@
 [{
 		"title": "Paradise Lost (Alex Kaidan S01E01)",
-		"authors": "Darren Hoyland"
+		"authors": "Darren Hoyland",
+		"reviews": []
 	},
 	{
 		"title": "The Path To Destruction (Alex Kaidan S01E03)",
-		"authors": "Darren Hoyland"
+		"authors": "Darren Hoyland",
+		"reviews": []
 	}
 ]
