@@ -1,7 +1,7 @@
 [
   {
     "header": "Hello",
-    "details": "I'm Darren"
+    "details": "I am Darren"
   },
   {
     "header": "um...",
