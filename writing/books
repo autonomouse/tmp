@@ -1,6 +1,7 @@
 [{
 		"title": "Paradise Lost (Alex Kaidan S01E01)",
 		"authors": "Darren Hoyland",
+		"cover": "https://dwtr67e3ikfml.cloudfront.net/bookCovers/43f3995c33617b407009f985a90add58a5856694",
 		"reviews": [{
 				"stars awarded": 4,
 				"max stars": 5,
@@ -24,6 +25,7 @@
 	{
 		"title": "The Path To Destruction (Alex Kaidan S01E03)",
 		"authors": "Darren Hoyland",
+		"cover": "https://dwtr67e3ikfml.cloudfront.net/bookCovers/43f3995c33617b407009f985a90add58a5856694",
 		"reviews": [{
 				"stars awarded": 5,
 				"max stars": 5,
